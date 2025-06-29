@@ -1,11 +1,11 @@
 {
   "name": "Mercado de Tecnología",
   "short_name": "TecMercado",
-  "start_url": "./public/index.html",
+  "start_url": "/public/index.html",
   "display": "standalone",
   "icons": [
     {
-      "src": "./assets/logo.png",
+      "src": "/assets/logo.png",
       "sizes": "192x192",
       "type": "image/png"
     }
